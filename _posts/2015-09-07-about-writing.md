@@ -21,4 +21,4 @@ comments: True
 我自己一直都是个懒人，一个矛盾的又想出门看世界，又不想耗时间安排行程整理行装。
 但是我希望也许在不久的将来，我可以骑上我的小摩托，开始自己的旅途。
 
-[2004 Hyosung Comet 250](http://i.imgur.com/pjTcUu5.jpg)
+![2004 Hyosung Comet 250](http://i.imgur.com/pjTcUu5.jpg)
